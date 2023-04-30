@@ -1,0 +1,169 @@
+{
+  "path": ".",
+  "subdirs": [
+    {
+      "path": ".idea",
+      "subdirs": null,
+      "files": null
+    },
+    {
+      "path": "structures",
+      "subdirs": null,
+      "files": null
+    },
+    {
+      "path": "cmd",
+      "subdirs": null,
+      "files": null
+    },
+    {
+      "path": "display",
+      "subdirs": null,
+      "files": null
+    },
+    {
+      "path": "ressssultat",
+      "subdirs": [
+        {
+          "path": "res2",
+          "subdirs": null,
+          "files": null
+        },
+        {
+          "path": "res",
+          "subdirs": [
+            {
+              "path": "tes",
+              "subdirs": null,
+              "files": null
+            }
+          ],
+          "files": null
+        }
+      ],
+      "files": null
+    },
+    {
+      "path": "bin",
+      "subdirs": null,
+      "files": null
+    },
+    {
+      "path": "files",
+      "subdirs": null,
+      "files": null
+    },
+    {
+      "path": "result",
+      "subdirs": [
+        {
+          "path": "source",
+          "subdirs": [
+            {
+              "path": ".idea",
+              "subdirs": null,
+              "files": null
+            },
+            {
+              "path": "cmd",
+              "subdirs": null,
+              "files": null
+            },
+            {
+              "path": "structures",
+              "subdirs": null,
+              "files": null
+            },
+            {
+              "path": "files",
+              "subdirs": null,
+              "files": null
+            },
+            {
+              "path": "ressssultat",
+              "subdirs": [
+                {
+                  "path": "res2",
+                  "subdirs": null,
+                  "files": null
+                },
+                {
+                  "path": "res",
+                  "subdirs": [
+                    {
+                      "path": "tes",
+                      "subdirs": null,
+                      "files": null
+                    }
+                  ],
+                  "files": null
+                }
+              ],
+              "files": null
+            },
+            {
+              "path": "bin",
+              "subdirs": null,
+              "files": null
+            },
+            {
+              "path": "display",
+              "subdirs": null,
+              "files": null
+            },
+            {
+              "path": "result",
+              "subdirs": [
+                {
+                  "path": "source",
+                  "subdirs": [
+                    {
+                      "path": ".idea",
+                      "subdirs": null,
+                      "files": null
+                    },
+                    {
+                      "path": "bin",
+                      "subdirs": null,
+                      "files": null
+                    },
+                    {
+                      "path": "structures",
+                      "subdirs": null,
+                      "files": null
+                    },
+                    {
+                      "path": "cmd",
+                      "subdirs": null,
+                      "files": null
+                    },
+                    {
+                      "path": "ressssultat",
+                      "subdirs": null,
+                      "files": null
+                    },
+                    {
+                      "path": "files",
+                      "subdirs": null,
+                      "files": null
+                    },
+                    {
+                      "path": "result",
+                      "subdirs": null,
+                      "files": null
+                    }
+                  ],
+                  "files": null
+                }
+              ],
+              "files": null
+            }
+          ],
+          "files": null
+        }
+      ],
+      "files": null
+    }
+  ],
+  "files": null
+}
